@@ -31,3 +31,46 @@ This project implements the Nearest Neighbor Algorithm to route delivery trucks 
 
 ------------------------------------------------------------------------------------------------
 
+IMPLEMENTATION
+
+Develop a hash table, without using any additional libraries or classes, that has an insertion function that takes the following components as input and inserts the components into the hash table:
+
+•   package ID number
+
+•   delivery address
+
+•   delivery deadline
+
+•   delivery city
+
+•   delivery zip code
+
+•   package weight
+
+•   delivery status (e.g., delivered, en route)
+
+Develop a look-up function that takes the following components as input and returns the corresponding data elements:
+
+•   package ID number
+
+•   delivery address
+
+•   delivery deadline
+
+•   delivery city
+
+•   delivery zip code
+
+•   package weight
+
+•   delivery status (i.e., “at the hub,” “en route,” or “delivered”), including the delivery time
+
+Note: Your function should output all data elements for the package ID number. 
+
+ an interface for the user to view the status and info (as listed in part F) of any package at any time, and the total mileage traveled by all trucks. (The delivery status should report the package as at the hub, en route, or delivered. Delivery status must include the time.)
+
+1.  Provide screenshots to show the status of all packages at a time between 8:35 a.m. and 9:25 a.m.
+
+2.  Provide screenshots to show the status of all packages at a time between 9:35 a.m. and 10:25 a.m.
+
+3.  Provide screenshots to show the status of all packages at a time between 12:03 p.m. and 1:12 p.m.
